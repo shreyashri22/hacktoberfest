@@ -1,3 +1,8 @@
+#### Name: shreya
+ - Place: Delhi, India
+ - Bio: Tech Student (AI and ML)
+ - GitHub: [Shreya Shrivastava](https://github.com/shrivastavanolo)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
